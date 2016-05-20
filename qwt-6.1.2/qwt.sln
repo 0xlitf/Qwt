@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qwt", "src\qwt.vcxproj", "{C378F2B3-9E42-3758-9455-DBFD75CFF2FA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qwt_designer_plugin", "designer\qwt_designer_plugin.vcxproj", "{25CC4CFC-AA3C-3F7F-A469-82D6A7C68205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C378F2B3-9E42-3758-9455-DBFD75CFF2FA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C378F2B3-9E42-3758-9455-DBFD75CFF2FA}.Debug|Win32.Build.0 = Debug|Win32
+		{C378F2B3-9E42-3758-9455-DBFD75CFF2FA}.Release|Win32.ActiveCfg = Release|Win32
+		{C378F2B3-9E42-3758-9455-DBFD75CFF2FA}.Release|Win32.Build.0 = Release|Win32
+		{25CC4CFC-AA3C-3F7F-A469-82D6A7C68205}.Debug|Win32.ActiveCfg = Release|Win32
+		{25CC4CFC-AA3C-3F7F-A469-82D6A7C68205}.Debug|Win32.Build.0 = Release|Win32
+		{25CC4CFC-AA3C-3F7F-A469-82D6A7C68205}.Release|Win32.ActiveCfg = Release|Win32
+		{25CC4CFC-AA3C-3F7F-A469-82D6A7C68205}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		Qt5Version = msvc2013
+	EndGlobalSection
+EndGlobal

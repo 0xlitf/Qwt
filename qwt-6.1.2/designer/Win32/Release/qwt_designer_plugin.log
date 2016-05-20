@@ -1,0 +1,315 @@
+﻿生成启动时间为 2016/5/21 0:28:45。
+     1>项目“C:\_OpensourceLib\Qwt\qwt-6.1.2\designer\qwt_designer_plugin.vcxproj”在节点 3 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Moc'ing qwt_abstract_legend.h...
+         Moc'ing qwt_abstract_scale.h...
+         Moc'ing qwt_abstract_slider.h...
+         Moc'ing qwt_analog_clock.h...
+         Moc'ing qwt_compass.h...
+         Moc'ing qwt_counter.h...
+         Moc'ing qwt_designer_plotdialog.h...
+         Moc'ing qwt_designer_plugin.h...
+         Moc'ing qwt_dial.h...
+         Moc'ing qwt_dyngrid_layout.h...
+         Moc'ing qwt_knob.h...
+         Moc'ing qwt_legend.h...
+         Moc'ing qwt_legend_label.h...
+         Moc'ing qwt_magnifier.h...
+         Moc'ing qwt_panner.h...
+         Moc'ing qwt_picker.h...
+         Moc'ing qwt_plot.h...
+         Moc'ing qwt_plot_canvas.h...
+         Moc'ing qwt_plot_glcanvas.h...
+         Moc'ing qwt_plot_magnifier.h...
+         Moc'ing qwt_plot_panner.h...
+         Moc'ing qwt_plot_picker.h...
+         Moc'ing qwt_plot_renderer.h...
+         Moc'ing qwt_plot_zoomer.h...
+         Moc'ing qwt_sampling_thread.h...
+         Moc'ing qwt_scale_widget.h...
+         Moc'ing qwt_slider.h...
+         Moc'ing qwt_text_label.h...
+         Moc'ing qwt_thermo.h...
+         Moc'ing qwt_wheel.h...
+         Rcc'ing qwt_designer_plugin.qrc...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /I..\src /I..\..\..\..\qt\qt5.6.0\5.6\msvc2013\include /I..\..\..\..\qt\qt5.6.0\5.6\msvc2013\include\QtDesigner /I..\..\..\..\qt\qt5.6.0\5.6\msvc2013\include\QtUiPlugin /I..\..\..\..\qt\qt5.6.0\5.6\msvc2013\include\QtPrintSupport /I..\..\..\..\qt\qt5.6.0\5.6\msvc2013\include\QtSvg /I..\..\..\..\qt\qt5.6.0\5.6\msvc2013\include\QtOpenGL /I..\..\..\..\qt\qt5.6.0\5.6\msvc2013\include\QtWidgets /I..\..\..\..\qt\qt5.6.0\5.6\msvc2013\include\QtGui /I..\..\..\..\qt\qt5.6.0\5.6\msvc2013\include\QtANGLE /I..\..\..\..\qt\qt5.6.0\5.6\msvc2013\include\QtXml /I..\..\..\..\qt\qt5.6.0\5.6\msvc2013\include\QtConcurrent /I..\..\..\..\qt\qt5.6.0\5.6\msvc2013\include\QtCore /Imoc /I"..\..\..\..\qt\qt5.6.0\5.6\msvc2013\mkspecs\win32-msvc2013" /nologo /W3 /WX- /O2 /Oy- /D _WINDOWS /D UNICODE /D WIN32 /D QT_NO_DEBUG /D QT_NO_KEYWORDS /D QT_PLUGIN /D QT_DESIGNER_LIB /D QT_UIPLUGIN_LIB /D QT_PRINTSUPPORT_LIB /D QT_SVG_LIB /D QT_OPENGL_LIB /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_XML_LIB /D QT_CONCURRENT_LIB /D QT_CORE_LIB /D QDESIGNER_EXPORT_WIDGETS /D NDEBUG /D _WINDLL /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Win32\Release\\" /Fd"Win32\Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt -Zc:strictStrings -w34100 -w34189 -w44996 ..\src\qwt_abstract_legend.cpp ..\src\qwt_abstract_scale.cpp ..\src\qwt_abstract_scale_draw.cpp ..\src\qwt_abstract_slider.cpp ..\src\qwt_analog_clock.cpp ..\src\qwt_arrow_button.cpp ..\src\qwt_clipper.cpp ..\src\qwt_color_map.cpp ..\src\qwt_column_symbol.cpp ..\src\qwt_compass.cpp ..\src\qwt_compass_rose.cpp ..\src\qwt_counter.cpp ..\src\qwt_curve_fitter.cpp ..\src\qwt_date.cpp ..\src\qwt_date_scale_draw.cpp ..\src\qwt_date_scale_engine.cpp GeneratedFiles\qrc_qwt_designer_plugin.cpp moc\moc_qwt_abstract_legend.cpp moc\moc_qwt_abstract_scale.cpp moc\moc_qwt_abstract_slider.cpp moc\moc_qwt_analog_clock.cpp moc\moc_qwt_compass.cpp moc\moc_qwt_counter.cpp moc\moc_qwt_designer_plotdialog.cpp moc\moc_qwt_designer_plugin.cpp moc\moc_qwt_dial.cpp moc\moc_qwt_dyngrid_layout.cpp moc\moc_qwt_knob.cpp moc\moc_qwt_legend.cpp moc\moc_qwt_legend_label.cpp moc\moc_qwt_magnifier.cpp moc\moc_qwt_panner.cpp moc\moc_qwt_picker.cpp moc\moc_qwt_plot.cpp moc\moc_qwt_plot_canvas.cpp moc\moc_qwt_plot_glcanvas.cpp moc\moc_qwt_plot_magnifier.cpp moc\moc_qwt_plot_panner.cpp moc\moc_qwt_plot_picker.cpp moc\moc_qwt_plot_renderer.cpp moc\moc_qwt_plot_zoomer.cpp moc\moc_qwt_sampling_thread.cpp moc\moc_qwt_scale_widget.cpp moc\moc_qwt_slider.cpp moc\moc_qwt_text_label.cpp moc\moc_qwt_thermo.cpp moc\moc_qwt_wheel.cpp qwt_designer_plotdialog.cpp qwt_designer_plugin.cpp ..\src\qwt_dial.cpp ..\src\qwt_dial_needle.cpp ..\src\qwt_dyngrid_layout.cpp ..\src\qwt_event_pattern.cpp ..\src\qwt_graphic.cpp ..\src\qwt_interval.cpp ..\src\qwt_interval_symbol.cpp ..\src\qwt_knob.cpp ..\src\qwt_legend.cpp ..\src\qwt_legend_data.cpp ..\src\qwt_legend_label.cpp ..\src\qwt_magnifier.cpp ..\src\qwt_math.cpp ..\src\qwt_matrix_raster_data.cpp ..\src\qwt_null_paintdevice.cpp ..\src\qwt_painter.cpp ..\src\qwt_painter_command.cpp ..\src\qwt_panner.cpp ..\src\qwt_picker.cpp ..\src\qwt_picker_machine.cpp ..\src\qwt_pixel_matrix.cpp ..\src\qwt_plot.cpp ..\src\qwt_plot_abstract_barchart.cpp ..\src\qwt_plot_axis.cpp ..\src\qwt_plot_barchart.cpp ..\src\qwt_plot_canvas.cpp ..\src\qwt_plot_curve.cpp ..\src\qwt_plot_dict.cpp ..\src\qwt_plot_directpainter.cpp ..\src\qwt_plot_glcanvas.cpp ..\src\qwt_plot_grid.cpp ..\src\qwt_plot_histogram.cpp ..\src\qwt_plot_intervalcurve.cpp ..\src\qwt_plot_item.cpp ..\src\qwt_plot_layout.cpp ..\src\qwt_plot_legenditem.cpp ..\src\qwt_plot_magnifier.cpp ..\src\qwt_plot_marker.cpp ..\src\qwt_plot_multi_barchart.cpp ..\src\qwt_plot_panner.cpp ..\src\qwt_plot_picker.cpp ..\src\qwt_plot_rasteritem.cpp ..\src\qwt_plot_renderer.cpp ..\src\qwt_plot_rescaler.cpp ..\src\qwt_plot_scaleitem.cpp ..\src\qwt_plot_seriesitem.cpp ..\src\qwt_plot_shapeitem.cpp ..\src\qwt_plot_spectrocurve.cpp ..\src\qwt_plot_spectrogram.cpp ..\src\qwt_plot_svgitem.cpp ..\src\qwt_plot_textlabel.cpp ..\src\qwt_plot_tradingcurve.cpp ..\src\qwt_plot_xml.cpp ..\src\qwt_plot_zoneitem.cpp ..\src\qwt_plot_zoomer.cpp ..\src\qwt_point_3d.cpp ..\src\qwt_point_data.cpp ..\src\qwt_point_mapper.cpp ..\src\qwt_point_polar.cpp ..\src\qwt_raster_data.cpp ..\src\qwt_round_scale_draw.cpp ..\src\qwt_sampling_thread.cpp ..\src\qwt_scale_div.cpp ..\src\qwt_scale_draw.cpp ..\src\qwt_scale_engine.cpp ..\src\qwt_scale_map.cpp ..\src\qwt_scale_widget.cpp ..\src\qwt_series_data.cpp ..\src\qwt_slider.cpp ..\src\qwt_spline.cpp ..\src\qwt_symbol.cpp ..\src\qwt_system_clock.cpp ..\src\qwt_text.cpp ..\src\qwt_text_engine.cpp ..\src\qwt_text_label.cpp ..\src\qwt_thermo.cpp ..\src\qwt_transform.cpp ..\src\qwt_wheel.cpp ..\src\qwt_widget_overlay.cpp
+         qwt_abstract_legend.cpp
+         qwt_abstract_scale.cpp
+         qwt_abstract_scale_draw.cpp
+         qwt_abstract_slider.cpp
+         qwt_analog_clock.cpp
+         qwt_arrow_button.cpp
+         qwt_clipper.cpp
+         qwt_color_map.cpp
+         qwt_column_symbol.cpp
+         qwt_compass.cpp
+         qwt_compass_rose.cpp
+         qwt_counter.cpp
+         qwt_curve_fitter.cpp
+         qwt_date.cpp
+         qwt_date_scale_draw.cpp
+         qwt_date_scale_engine.cpp
+         qrc_qwt_designer_plugin.cpp
+         moc_qwt_abstract_legend.cpp
+         moc_qwt_abstract_scale.cpp
+         moc_qwt_abstract_slider.cpp
+         正在生成代码...
+         正在编译...
+         moc_qwt_analog_clock.cpp
+         moc_qwt_compass.cpp
+         moc_qwt_counter.cpp
+         moc_qwt_designer_plotdialog.cpp
+         moc_qwt_designer_plugin.cpp
+         Header <QtDesigner/QDesignerCustomWidgetInterface> is deprecated. Please include <QtUiPlugin/QDesignerCustomWidgetInterface> instead.
+         moc_qwt_dial.cpp
+         moc_qwt_dyngrid_layout.cpp
+         moc_qwt_knob.cpp
+         moc_qwt_legend.cpp
+         moc_qwt_legend_label.cpp
+         moc_qwt_magnifier.cpp
+         moc_qwt_panner.cpp
+         moc_qwt_picker.cpp
+         moc_qwt_plot.cpp
+         moc_qwt_plot_canvas.cpp
+         moc_qwt_plot_glcanvas.cpp
+         moc_qwt_plot_magnifier.cpp
+         moc_qwt_plot_panner.cpp
+         moc_qwt_plot_picker.cpp
+         moc_qwt_plot_renderer.cpp
+         正在生成代码...
+         正在编译...
+         moc_qwt_plot_zoomer.cpp
+         moc_qwt_sampling_thread.cpp
+         moc_qwt_scale_widget.cpp
+         moc_qwt_slider.cpp
+         moc_qwt_text_label.cpp
+         moc_qwt_thermo.cpp
+         moc_qwt_wheel.cpp
+         qwt_designer_plotdialog.cpp
+         qwt_designer_plugin.cpp
+         Header <QtDesigner/QDesignerCustomWidgetInterface> is deprecated. Please include <QtUiPlugin/QDesignerCustomWidgetInterface> instead.
+         qwt_dial.cpp
+         qwt_dial_needle.cpp
+         qwt_dyngrid_layout.cpp
+         qwt_event_pattern.cpp
+         qwt_graphic.cpp
+         qwt_interval.cpp
+         qwt_interval_symbol.cpp
+         qwt_knob.cpp
+         qwt_legend.cpp
+         qwt_legend_data.cpp
+         qwt_legend_label.cpp
+         正在生成代码...
+         正在编译...
+         qwt_magnifier.cpp
+         qwt_math.cpp
+         qwt_matrix_raster_data.cpp
+         qwt_null_paintdevice.cpp
+         qwt_painter.cpp
+         qwt_painter_command.cpp
+         qwt_panner.cpp
+         qwt_picker.cpp
+         qwt_picker_machine.cpp
+         qwt_pixel_matrix.cpp
+         qwt_plot.cpp
+         qwt_plot_abstract_barchart.cpp
+         qwt_plot_axis.cpp
+         qwt_plot_barchart.cpp
+         qwt_plot_canvas.cpp
+         qwt_plot_curve.cpp
+         qwt_plot_dict.cpp
+         qwt_plot_directpainter.cpp
+         qwt_plot_glcanvas.cpp
+         qwt_plot_grid.cpp
+         正在生成代码...
+         正在编译...
+         qwt_plot_histogram.cpp
+         qwt_plot_intervalcurve.cpp
+         qwt_plot_item.cpp
+         qwt_plot_layout.cpp
+         qwt_plot_legenditem.cpp
+         qwt_plot_magnifier.cpp
+         qwt_plot_marker.cpp
+         qwt_plot_multi_barchart.cpp
+         qwt_plot_panner.cpp
+         qwt_plot_picker.cpp
+         qwt_plot_rasteritem.cpp
+         qwt_plot_renderer.cpp
+         qwt_plot_rescaler.cpp
+         qwt_plot_scaleitem.cpp
+         qwt_plot_seriesitem.cpp
+         qwt_plot_shapeitem.cpp
+         qwt_plot_spectrocurve.cpp
+         qwt_plot_spectrogram.cpp
+         qwt_plot_svgitem.cpp
+         qwt_plot_textlabel.cpp
+         正在生成代码...
+         正在编译...
+         qwt_plot_tradingcurve.cpp
+         qwt_plot_xml.cpp
+         qwt_plot_zoneitem.cpp
+         qwt_plot_zoomer.cpp
+         qwt_point_3d.cpp
+         qwt_point_data.cpp
+         qwt_point_mapper.cpp
+         qwt_point_polar.cpp
+         qwt_raster_data.cpp
+         qwt_round_scale_draw.cpp
+         qwt_sampling_thread.cpp
+         qwt_scale_div.cpp
+         qwt_scale_draw.cpp
+         qwt_scale_engine.cpp
+         qwt_scale_map.cpp
+         qwt_scale_widget.cpp
+         qwt_series_data.cpp
+         qwt_slider.cpp
+         qwt_spline.cpp
+         qwt_symbol.cpp
+         正在生成代码...
+         正在编译...
+         qwt_system_clock.cpp
+         qwt_text.cpp
+         qwt_text_engine.cpp
+         qwt_text_label.cpp
+         qwt_thermo.cpp
+         qwt_transform.cpp
+         qwt_wheel.cpp
+         qwt_widget_overlay.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"plugins\designer\\qwt_designer_plugin.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Qt\Qt5.6.0\5.6\msvc2013\lib /LIBPATH:C:\Qt\Qt5.6.0\5.6\msvc2013\lib C:\Qt\Qt5.6.0\5.6\msvc2013\lib\Qt5Designer.lib C:\Qt\Qt5.6.0\5.6\msvc2013\lib\Qt5PrintSupport.lib C:\Qt\Qt5.6.0\5.6\msvc2013\lib\Qt5Svg.lib C:\Qt\Qt5.6.0\5.6\msvc2013\lib\Qt5OpenGL.lib C:\Qt\Qt5.6.0\5.6\msvc2013\lib\Qt5Widgets.lib C:\Qt\Qt5.6.0\5.6\msvc2013\lib\Qt5Gui.lib C:\Qt\Qt5.6.0\5.6\msvc2013\lib\Qt5Xml.lib C:\Qt\Qt5.6.0\5.6\msvc2013\lib\Qt5Concurrent.lib C:\Qt\Qt5.6.0\5.6\msvc2013\lib\Qt5Core.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"plugins\designer\qwt_designer_plugin.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /SAFESEH /DLL Win32\Release\qwt_abstract_legend.obj
+         Win32\Release\qwt_abstract_scale.obj
+         Win32\Release\qwt_abstract_scale_draw.obj
+         Win32\Release\qwt_abstract_slider.obj
+         Win32\Release\qwt_analog_clock.obj
+         Win32\Release\qwt_arrow_button.obj
+         Win32\Release\qwt_clipper.obj
+         Win32\Release\qwt_color_map.obj
+         Win32\Release\qwt_column_symbol.obj
+         Win32\Release\qwt_compass.obj
+         Win32\Release\qwt_compass_rose.obj
+         Win32\Release\qwt_counter.obj
+         Win32\Release\qwt_curve_fitter.obj
+         Win32\Release\qwt_date.obj
+         Win32\Release\qwt_date_scale_draw.obj
+         Win32\Release\qwt_date_scale_engine.obj
+         Win32\Release\qrc_qwt_designer_plugin.obj
+         Win32\Release\moc_qwt_abstract_legend.obj
+         Win32\Release\moc_qwt_abstract_scale.obj
+         Win32\Release\moc_qwt_abstract_slider.obj
+         Win32\Release\moc_qwt_analog_clock.obj
+         Win32\Release\moc_qwt_compass.obj
+         Win32\Release\moc_qwt_counter.obj
+         Win32\Release\moc_qwt_designer_plotdialog.obj
+         Win32\Release\moc_qwt_designer_plugin.obj
+         Win32\Release\moc_qwt_dial.obj
+         Win32\Release\moc_qwt_dyngrid_layout.obj
+         Win32\Release\moc_qwt_knob.obj
+         Win32\Release\moc_qwt_legend.obj
+         Win32\Release\moc_qwt_legend_label.obj
+         Win32\Release\moc_qwt_magnifier.obj
+         Win32\Release\moc_qwt_panner.obj
+         Win32\Release\moc_qwt_picker.obj
+         Win32\Release\moc_qwt_plot.obj
+         Win32\Release\moc_qwt_plot_canvas.obj
+         Win32\Release\moc_qwt_plot_glcanvas.obj
+         Win32\Release\moc_qwt_plot_magnifier.obj
+         Win32\Release\moc_qwt_plot_panner.obj
+         Win32\Release\moc_qwt_plot_picker.obj
+         Win32\Release\moc_qwt_plot_renderer.obj
+         Win32\Release\moc_qwt_plot_zoomer.obj
+         Win32\Release\moc_qwt_sampling_thread.obj
+         Win32\Release\moc_qwt_scale_widget.obj
+         Win32\Release\moc_qwt_slider.obj
+         Win32\Release\moc_qwt_text_label.obj
+         Win32\Release\moc_qwt_thermo.obj
+         Win32\Release\moc_qwt_wheel.obj
+         Win32\Release\qwt_designer_plotdialog.obj
+         Win32\Release\qwt_designer_plugin.obj
+         Win32\Release\qwt_dial.obj
+         Win32\Release\qwt_dial_needle.obj
+         Win32\Release\qwt_dyngrid_layout.obj
+         Win32\Release\qwt_event_pattern.obj
+         Win32\Release\qwt_graphic.obj
+         Win32\Release\qwt_interval.obj
+         Win32\Release\qwt_interval_symbol.obj
+         Win32\Release\qwt_knob.obj
+         Win32\Release\qwt_legend.obj
+         Win32\Release\qwt_legend_data.obj
+         Win32\Release\qwt_legend_label.obj
+         Win32\Release\qwt_magnifier.obj
+         Win32\Release\qwt_math.obj
+         Win32\Release\qwt_matrix_raster_data.obj
+         Win32\Release\qwt_null_paintdevice.obj
+         Win32\Release\qwt_painter.obj
+         Win32\Release\qwt_painter_command.obj
+         Win32\Release\qwt_panner.obj
+         Win32\Release\qwt_picker.obj
+         Win32\Release\qwt_picker_machine.obj
+         Win32\Release\qwt_pixel_matrix.obj
+         Win32\Release\qwt_plot.obj
+         Win32\Release\qwt_plot_abstract_barchart.obj
+         Win32\Release\qwt_plot_axis.obj
+         Win32\Release\qwt_plot_barchart.obj
+         Win32\Release\qwt_plot_canvas.obj
+         Win32\Release\qwt_plot_curve.obj
+         Win32\Release\qwt_plot_dict.obj
+         Win32\Release\qwt_plot_directpainter.obj
+         Win32\Release\qwt_plot_glcanvas.obj
+         Win32\Release\qwt_plot_grid.obj
+         Win32\Release\qwt_plot_histogram.obj
+         Win32\Release\qwt_plot_intervalcurve.obj
+         Win32\Release\qwt_plot_item.obj
+         Win32\Release\qwt_plot_layout.obj
+         Win32\Release\qwt_plot_legenditem.obj
+         Win32\Release\qwt_plot_magnifier.obj
+         Win32\Release\qwt_plot_marker.obj
+         Win32\Release\qwt_plot_multi_barchart.obj
+         Win32\Release\qwt_plot_panner.obj
+         Win32\Release\qwt_plot_picker.obj
+         Win32\Release\qwt_plot_rasteritem.obj
+         Win32\Release\qwt_plot_renderer.obj
+         Win32\Release\qwt_plot_rescaler.obj
+         Win32\Release\qwt_plot_scaleitem.obj
+         Win32\Release\qwt_plot_seriesitem.obj
+         Win32\Release\qwt_plot_shapeitem.obj
+         Win32\Release\qwt_plot_spectrocurve.obj
+         Win32\Release\qwt_plot_spectrogram.obj
+         Win32\Release\qwt_plot_svgitem.obj
+         Win32\Release\qwt_plot_textlabel.obj
+         Win32\Release\qwt_plot_tradingcurve.obj
+         Win32\Release\qwt_plot_xml.obj
+         Win32\Release\qwt_plot_zoneitem.obj
+         Win32\Release\qwt_plot_zoomer.obj
+         Win32\Release\qwt_point_3d.obj
+         Win32\Release\qwt_point_data.obj
+         Win32\Release\qwt_point_mapper.obj
+         Win32\Release\qwt_point_polar.obj
+         Win32\Release\qwt_raster_data.obj
+         Win32\Release\qwt_round_scale_draw.obj
+         Win32\Release\qwt_sampling_thread.obj
+         Win32\Release\qwt_scale_div.obj
+         Win32\Release\qwt_scale_draw.obj
+         Win32\Release\qwt_scale_engine.obj
+         Win32\Release\qwt_scale_map.obj
+         Win32\Release\qwt_scale_widget.obj
+         Win32\Release\qwt_series_data.obj
+         Win32\Release\qwt_slider.obj
+         Win32\Release\qwt_spline.obj
+         Win32\Release\qwt_symbol.obj
+         Win32\Release\qwt_system_clock.obj
+         Win32\Release\qwt_text.obj
+         Win32\Release\qwt_text_engine.obj
+         Win32\Release\qwt_text_label.obj
+         Win32\Release\qwt_thermo.obj
+         Win32\Release\qwt_transform.obj
+         Win32\Release\qwt_wheel.obj
+         Win32\Release\qwt_widget_overlay.obj
+            正在创建库 plugins\designer\\qwt_designer_plugin.lib 和对象 plugins\designer\\qwt_designer_plugin.exp
+         qwt_designer_plugin.vcxproj -> C:\_OpensourceLib\Qwt\qwt-6.1.2\designer\plugins\designer\qwt_designer_plugin.dll
+     1>已完成生成项目“C:\_OpensourceLib\Qwt\qwt-6.1.2\designer\qwt_designer_plugin.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:01:36.38
